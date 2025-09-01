@@ -1,4 +1,4 @@
-Diwali Sales Analysis
+##Diwali Sales Analysis
 
 This project analyzes Diwali sales data to uncover customer buying behavior and business insights.
 
