@@ -1,59 +1,15 @@
-# Diwali-Sales-Analysis
-Objective
+Diwali Sales Analysis
 
-To analyze sales data from Diwali season transactions and gain insights into customer demographics, purchasing power, and product category performance.
+This project analyzes Diwali sales data to uncover customer buying behavior and business insights.
 
-Steps Involved
+🔹 Key Highlights
 
-Data Import & Cleaning
+(1)Performed data cleaning & EDA using Python, Pandas, NumPy, Matplotlib, Seaborn.
 
-Imported libraries: numpy, pandas, matplotlib, seaborn.
+(2)Found that married women (26–35 years) were the top spenders, with highest sales from Uttar Pradesh, Maharashtra, and Karnataka.
 
-Loaded dataset (Diwali Sales Data.csv).
+(3)Identified Food, Clothing, and Electronics as the most profitable product categories.
 
-Removed irrelevant columns (Status, unnamed1).
+🎯 Outcome
 
-Handled missing values (dropna()).
-
-Converted Amount column to integer type.
-
-Renamed columns for clarity.
-
-Exploratory Data Analysis (EDA)
-
-Gender Analysis
-
-Most buyers are females, and their total spending is higher compared to males.
-
-Age Group Analysis
-
-Majority of buyers are from the 26–35 years age group.
-
-State-wise Analysis
-
-Highest orders and sales are from Uttar Pradesh, Maharashtra, and Karnataka.
-
-Marital Status
-
-Married women are the top buyers, with higher spending compared to others.
-
-Occupation
-
-Most buyers are from the IT, Healthcare, and Aviation sectors.
-
-Product Categories
-
-Food, Clothing, and Electronics contributed the most to sales.
-
-Key Insights
-
-Women (especially married) aged 26–35 years are the primary target customers.
-
-States like Uttar Pradesh, Maharashtra, and Karnataka drive the most revenue.
-
-IT, Healthcare, and Aviation professionals dominate purchases.
-
-Businesses should focus more on Food, Clothing, and Electronics during Diwali promotions.
-
-✅ Conclusion:
-The analysis shows that marketing campaigns during Diwali should be targeted at married women aged 26–35 years, working in IT/Healthcare/Aviation sectors, particularly in UP, Maharashtra, and Karnataka, with a strong focus on food, clothing, and electronics product categories.
+Actionable insights to help businesses target the right customer segments and optimize festive marketing strategies.
